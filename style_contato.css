@@ -62,4 +62,8 @@
     justify-content: space-around;
     align-items: center;
 }
-    </style>
+
+@media(max-width: 768px)
+.footer-navigation
+   display: block;
+   </style>
